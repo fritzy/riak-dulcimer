@@ -21,5 +21,9 @@
   "bugs": {
     "url": "https://github.com/fritzy/riak-dulcimer/issues"
   },
-  "homepage": "https://github.com/fritzy/riak-dulcimer"
+  "homepage": "https://github.com/fritzy/riak-dulcimer",
+  "dependencies": {
+    "riakdown": "^1.2.5",
+    "levelup": "git://github.com/nlf/node-levelup"
+  }
 }
