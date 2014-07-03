@@ -24,6 +24,8 @@
   "homepage": "https://github.com/fritzy/riak-dulcimer",
   "dependencies": {
     "riakdown": "^1.2.5",
-    "levelup": "git://github.com/nlf/node-levelup"
+    "levelup": "git://github.com/nlf/node-levelup",
+    "level-bucketarray": "^1.0.0",
+    "riakdown-indextotal": "0.0.1"
   }
 }
