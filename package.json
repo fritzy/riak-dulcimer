@@ -1,6 +1,6 @@
 {
   "name": "riak-dulcimer",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Set up a riak connection for dulcimer easily.",
   "main": "index.js",
   "scripts": {
