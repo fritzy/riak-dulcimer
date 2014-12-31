@@ -27,7 +27,7 @@
     "levelout": "1.0.0",
     "level-bucketarray": "^1.0.0",
     "riakdown-indextotal": "0.0.1",
-    "level-foreignkeys": "2.0.1",
+    "level-foreignkeys": "2.1.1",
     "riakdown-increment": "0.0.1"
   }
 }
